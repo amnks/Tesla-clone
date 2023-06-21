@@ -58,9 +58,9 @@ const Container = styled.div`
   padding: 0px 20px;
   justify-content: space-between;
   top: 0;
-  left: 0;
   right: 0;
   z-index: 1;
+  left: 0;
 `;
 
 const Menu = styled.div`
